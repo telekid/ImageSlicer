@@ -17,7 +17,7 @@ ImageSlicer can be called by running the following:
 
 Here, `width` and `height` following the `-p` flag refer to the width and height of a single sheet of paper, in inches. `width` and `height` following the `-w` flag refer to the width and height of the total output size, in feet.
 
-The optional `v` flag can be used to increase verbosity. Calling `vv` reveals additional debugging information.
+The optional `-v` flag can be used to increase verbosity. Calling `-vv` reveals additional debugging information.
 
 
 Happy slicing!
